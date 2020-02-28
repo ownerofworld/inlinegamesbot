@@ -2,6 +2,10 @@
 
 A Telegram bot that provides real-time multiplayer games that can be played in any chat.
 
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 You can see the bot in action by messaging [@inlinegamesbot](https://telegram.me/inlinegamesbot).
 
 #### Currently available games:
